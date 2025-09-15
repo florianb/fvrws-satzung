@@ -1,3 +1,7 @@
+#set text(
+  lang: "de"
+)
+
 = Satzung des „Vereins der  Richard-Wagner-Grundschule  Berlin e.V.“
 
 == §1 Name, Sitz, Geschäftsjahr
