@@ -1,0 +1,43 @@
+name: Build and Release PDF
+
+on:
+  push:
+    tags:
+      - 'v*'  # Trigger on version tags like v1.0.0, v2.1.3, etc.
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Required to upload assets to releases
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Typst
+        uses: typst-community/setup-typst@v3
+        with:
+          typst-version: 'latest'
+
+      - name: Compile PDF
+        run: |
+          typst compile main.typ satzung.pdf
+
+      - name: Get release info
+        id: release_info
+        run: |
+          echo "tag=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+          echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Upload PDF to Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: satzung.pdf
+          body: |
+            PDF-Version der Satzung generiert am ${{ steps.release_info.outputs.date }}
+
+            Release-Tag: ${{ steps.release_info.outputs.tag }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
