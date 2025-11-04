@@ -2,11 +2,11 @@
   lang: "de",
 )
 
-= Satzung des „Vereins der Richard-Wagner-Grundschule Berlin e.V.“
+= Satzung des „Vereins der Richard-Wagner-Schule Berlin e.V.“
 
 == §1 Name, Sitz, Geschäftsjahr
 
-1. Der Verein führt den Namen: „Verein der Richard-Wagner-Grundschule Berlin e.V.“.
+1. Der Verein führt den Namen: „Verein der Richard-Wagner-Schule Berlin e.V.“.
 2. Er hat seinen Sitz in Berlin - Karlshorst, Ehrenfelsstr. 36, 10318 Berlin.
 3. Der Verein ist im Vereinsregister unter der Nummer VR 17080 B eingetragen.
 4. Das Geschäftsjahr ist das Kalenderjahr.
@@ -55,7 +55,7 @@
 2. Bei Erwerb der Mitgliedschaft ist der jährliche Beitrag innerhalb des 1. Quartals des laufenden Geschäftsjahrs zu entrichten.
 3. Bei Beendigung der Mitgliedschaft endet die Beitragspflicht mit dem Ende des Geschäftsjahres.
 
-== §5 Organe des Vereins Satzung des „Vereins der Richard-Wagner-Grundschule Berlin e.V.“
+== §5 Organe des Vereins Satzung des „Vereins der Richard-Wagner-Schule Berlin e.V.“
 
 1. Organe des Vereins sind
   - die Mitgliederversammlung
@@ -111,6 +111,6 @@ Zuwendungen aus Vereinsmitteln können beim Vorstand beantragt werden.
 Über die Vergabe entscheidet der Vorstand.
 
 == §7 Auflösung des Vereins
-Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt sein Vermögen an den Förderverein Hans und Hilde Coppi Gymnasium Berlin-Lichtenberg e.V., Römerweg 30–32, 10318 Berlin, der es der Richard-Wagner-Grundschule Berlin (Schulnummer 11G14) bei Bedarf unmittelbar und ausschließlich für steuerbegünstigte Zwecke zur Verfügung zu stellen hat.
+Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt sein Vermögen an den Förderverein Hans und Hilde Coppi Gymnasium Berlin-Lichtenberg e.V., Römerweg 30–32, 10318 Berlin, der es der Richard-Wagner-Schule Berlin (Schulnummer 11G14) bei Bedarf unmittelbar und ausschließlich für steuerbegünstigte Zwecke zur Verfügung zu stellen hat.
 
 Berlin, 26. Mai 2021
