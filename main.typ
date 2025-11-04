@@ -31,8 +31,8 @@
 
 1. Der Verein besteht aus ordentlichen und fördernden Mitgliedern.
 2. Ordentliches Vereinsmitglied kann jede natürliche, volljährige Person werden, die dem Vereinszweck dienen will.
-3. Die Mitgliedschaft wird begründet durch eine schriftliche Beitrittserklärung an den Vereinsvorstand, der die Mitgliedschaft bestätigt.
-4. Jedes ordentliche Vereinsmitglied hat einen jährlichen Mitgliedsbeitrag von EUR 12,– zu leisten (monatlich EUR 1,–).
+3. Die Mitgliedschaft wird durch einen Aufnahmeantrag in Textform beantragt. Über den Aufnahmeantrag entscheidet der Vorstand abschließend. Eine Ablehnung des Antrags muss nicht begründet werden.
+4. Jedes ordentliche Vereinsmitglied hat einen jährlichen Mitgliedsbeitrag von EUR 12,– zu leisten (monatlich EUR 1,–). Der Mitgliedsbeitrag wird erstmalig bei Aufnahme fällig.
 5. Förderndes Mitglied des Vereins kann jede natürliche, volljährige und jede juristische Person werden.
 6. Fördernde Mitglieder sind zu einer regelmäßigen Beitragszahlung nicht verpflichtet. Sie können den Verein durch freiwillige Zahlungen sowie in ideeller Hinsicht unterstützen.
 7. Fördernde Mitglieder besitzen kein Stimmrecht.
@@ -41,9 +41,9 @@
   - durch Austritt,
   - durch Streichung von der Mitgliederliste,
   - durch Ausschluss aus dem Verein.
-9. Der Austritt erfolgt durch schriftliche Erklärung gegenüber einem Mitglied des Vorstandes. Der Austritt ist zum Ende eines Kalenderjahres unter Einhaltung einer Kündigungsfrist von einem Monat möglich.
+9. Der Austritt erfolgt durch Erklärung gegenüber einem Mitglied des Vorstandes. Der Austritt ist zum Ende eines Kalenderjahres unter Einhaltung einer Kündigungsfrist von einem Monat möglich.
 10. Ein Mitglied, das mit dem Jahresbeitrag länger als 6 Monate im Rückstand ist und den Beitrag auch nach erfolgter Mahnung nicht innerhalb von 2 Monaten entrichtet, wird aus der Mitgliederliste gestrichen.
-11. Die Streichung ist dem Mitglied vom Vorstand schriftlich mitzuteilen.
+11. Die Streichung ist dem Mitglied vom Vorstand in Textform mitzuteilen.
 12. Ein Mitglied kann aus dem Verein ausgeschlossen werden, wenn es den Vereinsinteressen zuwiderhandelt.
 13. Der Ausschluss erfolgt durch Beschluss der Mitgliederversammlung.
 14. Dem Mitglied ist vor dem Ausschluss die Möglichkeit zur Stellungnahme zu geben.
@@ -71,20 +71,20 @@
   - Neufestsetzung des Mitgliedsbeitrages,
   - Beschlussfassung über die Auflösung des Vereins.
 
-  Die Mitgliederversammlung wird vom Vorstand durch schriftliche Einladung auf Papier (Aushändigung, Brief, Telefax) oder elektronisch in Textform (E-Mail), unter Angabe der Tagesordnung und unter Einhaltung einer Einladungsfrist von 4 Wochen, einberufen.
+  Die Mitgliederversammlung wird vom Vorstand in Textform (z.B. Mail, Fax oder Briefpost) angekündigt und wird unter Angabe der Tagesordnung und unter Einhaltung einer Einladungsfrist von 2 Wochen, einberufen.
 
-  Die Mitgliederversammlung ist auch einzuberufen, wenn mindestens der zehnte Teil der Mitglieder die Einberufung schriftlich, unter Angabe des Zweckes und der Gründe, verlangt. Die Beschlüsse der Mitgliederversammlung werden mit der einfachen Mehrheit der erschienenen Mitglieder gefasst.
+  Die Mitgliederversammlung ist auch einzuberufen, wenn mindestens der zehnte Teil der Mitglieder die Einberufung in Textform, unter Angabe des Zweckes und der Gründe, verlangt. Die Beschlüsse der Mitgliederversammlung werden mit der einfachen Mehrheit der erschienenen Mitglieder gefasst.
 
   Beschlüsse zur Änderung der Satzung und zur Auflösung des Vereins bedürfen einer Mehrheit von drei Vierteln der erschienenen bzw. teilnehmenden Mitglieder.
 
-  Zur Änderung des Zweckes des Vereins ist die Zustimmung aller Mitglieder erforderlich; die Zustimmung der nicht erschienenen bzw. teilnehmenden Mitglieder muss schriftlich erfolgen.
+  Zur Änderung des Zweckes des Vereins ist die Zustimmung aller Mitglieder erforderlich; die Zustimmung der nicht erschienenen bzw. teilnehmenden Mitglieder muss in Textform erfolgen.
 
   Die Beschlüsse der Mitgliederversammlung sind zu protokollieren und vom Vorsitzenden und dem Versammlungsleiter zu unterzeichnen.
 
 3. Der Vorstand besteht aus
   - dem Vorsitzenden,
   - dem stellvertretenden Vorsitzenden,
-  - bis zu zwei weiteren Personen
+  - bis zu 6 weiteren Personen
 
   Die Aufgaben des Kassenwartes und die des Schriftführers können auch von dem Vorsitzenden bzw. dem stellvertretenden Vorsitzenden wahrgenommen werden.
 
@@ -98,7 +98,7 @@
 
   Scheidet ein Vorstandsmitglied während der Wahlzeit aus, so übernimmt auf Beschluss des Vorstandes eines der übrigen Vorstandsmitglieder die Geschäfte des Ausgeschiedenen bis zur Neuwahl eines Nachfolgekandidaten.
 
-  Die Wahl eines Nachfolgekandidaten erfolgt auf der nächsten ordentlichen Mitgliederversammlung, sofern die Handlungsfähigkeit des Vereins weiterhin gewährleistet ist. Andernfalls hat die Neuwahl innerhalb von 6  Wochen durch Beschluss der Mitgliederversammlung zu erfolgen.
+  Die Wahl eines Nachfolgekandidaten erfolgt auf der nächsten ordentlichen Mitgliederversammlung, sofern die Handlungsfähigkeit des Vereins weiterhin gewährleistet ist. Andernfalls hat die Neuwahl innerhalb von 6 Wochen durch Beschluss der Mitgliederversammlung zu erfolgen.
 
   Der Vorstand verwaltet das Vermögen des Vereins. Einnahmen und Ausgaben sind unter Aufbewahrung der Belege chronologisch aufzuzeichnen. Am Ende des Geschäftsj ahres ist eine Vermögensaufstellung vorzunehmen.
 
