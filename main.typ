@@ -31,8 +31,8 @@
 
 1. Der Verein besteht aus ordentlichen und fördernden Mitgliedern.
 2. Ordentliches Vereinsmitglied kann jede natürliche, volljährige Person werden, die dem Vereinszweck dienen will.
-3. Die Mitgliedschaft wird durch einen Aufnahmeantrag in Textform beantragt. Über den Aufnahmeantrag entscheidet der Vorstand abschließend. Eine Ablehnung des Antrags muss nicht begründet werden.
-4. Jedes ordentliche Vereinsmitglied hat einen jährlichen Mitgliedsbeitrag von EUR 12,– zu leisten (monatlich EUR 1,–). Der Mitgliedsbeitrag wird erstmalig bei Aufnahme fällig.
+3. Die Mitgliedschaft wird durch einen Aufnahmeantrag in Textform beantragt. Der Antrag soll digital über das Aufnahmeformular auf der Website des Vereins erfolgen. Über den Aufnahmeantrag entscheidet der Vorstand abschließend. Eine Ablehnung des Antrags muss nicht begründet werden.
+4. Jedes ordentliche Vereinsmitglied hat je Kalenderjahr einen Mitgliedsbeitrag von EUR 12,– zu leisten. Der Mitgliedsbeitrag wird erstmalig bei Aufnahme fällig.
 5. Förderndes Mitglied des Vereins kann jede natürliche, volljährige und jede juristische Person werden.
 6. Fördernde Mitglieder sind zu einer regelmäßigen Beitragszahlung nicht verpflichtet. Sie können den Verein durch freiwillige Zahlungen sowie in ideeller Hinsicht unterstützen.
 7. Fördernde Mitglieder besitzen kein Stimmrecht.
@@ -41,18 +41,18 @@
   - durch Austritt,
   - durch Streichung von der Mitgliederliste,
   - durch Ausschluss aus dem Verein.
-9. Der Austritt erfolgt durch Erklärung gegenüber einem Mitglied des Vorstandes. Der Austritt ist zum Ende eines Kalenderjahres unter Einhaltung einer Kündigungsfrist von einem Monat möglich.
+9. Der Austritt erfolgt digital über das Mitgliederportal der Vereinssoftware oder durch Erklärung gegenüber einem Mitglied des Vorstandes. Der Austritt ist zum Ende eines Kalenderjahres möglich. Erfolgt der Austritt nicht über das Mitgliederportal, ist eine Kündigungsfrist von vier Wochen einzuhalten.
 10. Ein Mitglied, das mit dem Jahresbeitrag länger als 6 Monate im Rückstand ist und den Beitrag auch nach erfolgter Mahnung nicht innerhalb von 2 Monaten entrichtet, wird aus der Mitgliederliste gestrichen.
 11. Die Streichung ist dem Mitglied vom Vorstand in Textform mitzuteilen.
 12. Ein Mitglied kann aus dem Verein ausgeschlossen werden, wenn es den Vereinsinteressen zuwiderhandelt.
 13. Der Ausschluss erfolgt durch Beschluss der Mitgliederversammlung.
 14. Dem Mitglied ist vor dem Ausschluss die Möglichkeit zur Stellungnahme zu geben.
 15. Bei Beendigung der Mitgliedschaft besteht kein Anspruch auf das Vereinsvermögen.
-16. Alle Mitteilungen und Erklärungen können grundsätzlich auch in elektronischer Form erfolgen.
+16. Alle Mitteilungen und Erklärungen sollen grundsätzlich in elektronischer Form erfolgen.
 
 == §4 Beitragszahlung
 1. Über die Neufestsetzung des Mitgliedsbeitrages und die Zahlungsmodalitäten entscheidet die Mitgliederversammlung.
-2. Bei Erwerb der Mitgliedschaft ist der jährliche Beitrag innerhalb des 1. Quartals des laufenden Geschäftsjahrs zu entrichten.
+2. Bei Erwerb der Mitgliedschaft ist der jährliche Beitrag innerhalb des 1. Quartals des laufenden Geschäftsjahrs, bei einem Beitritt nach dem 01. April binnen zwei Wochen zu entrichten.
 3. Bei Beendigung der Mitgliedschaft endet die Beitragspflicht mit dem Ende des Geschäftsjahres.
 
 == §5 Organe des Vereins Satzung des „Vereins der Richard-Wagner-Schule Berlin e.V.“
@@ -71,7 +71,7 @@
   - Neufestsetzung des Mitgliedsbeitrages,
   - Beschlussfassung über die Auflösung des Vereins.
 
-  Die Mitgliederversammlung wird vom Vorstand in Textform (z.B. Mail, Fax oder Briefpost) angekündigt und wird unter Angabe der Tagesordnung und unter Einhaltung einer Einladungsfrist von 2 Wochen, einberufen.
+  Die Mitgliederversammlung wird vom Vorstand per E-Mail angekündigt und wird unter Angabe der Tagesordnung und unter Einhaltung einer Einladungsfrist von 2 Wochen, einberufen.
 
   Die Mitgliederversammlung ist auch einzuberufen, wenn mindestens der zehnte Teil der Mitglieder die Einberufung in Textform, unter Angabe des Zweckes und der Gründe, verlangt. Die Beschlüsse der Mitgliederversammlung werden mit der einfachen Mehrheit der erschienenen Mitglieder gefasst.
 
@@ -82,15 +82,17 @@
   Die Beschlüsse der Mitgliederversammlung sind zu protokollieren und vom Vorsitzenden und dem Versammlungsleiter zu unterzeichnen.
 
 3. Der Vorstand besteht aus
-  - dem Vorsitzenden,
-  - dem stellvertretenden Vorsitzenden,
-  - bis zu 6 weiteren Personen
+  - dem / der Vorsitzenden,
+  - dem / der stellvertretenden Vorsitzenden,
+  - dem Kassenwart / der Kassenwartin,
+  - dem Schriftführer / der Schriftführerin,
+  - bis zu 4 weiteren Personen
 
   Die Aufgaben des Kassenwartes und die des Schriftführers können auch von dem Vorsitzenden bzw. dem stellvertretenden Vorsitzenden wahrgenommen werden.
 
   Die Entscheidungen des Vorstandes bedürfen der Zustimmung der Mehrheit der Vorstandsmitglieder.
 
-  Der Verein wird gerichtlich und außergerichtlich durch zwei Mitglieder des Vorstandes gemeinsam vertreten. Einer von ihnen muss der Vorsitzende oder der stellvertretende Vorsitzende sein.
+  Der Verein wird gerichtlich und außergerichtlich durch zwei Mitglieder des Vorstandes gemeinsam vertreten. 
 
   Die Wahl der Vorstandsmitglieder erfolgt durch die Mitgliederversammlung für die Dauer von zwei Jahren.
 
@@ -100,7 +102,7 @@
 
   Die Wahl eines Nachfolgekandidaten erfolgt auf der nächsten ordentlichen Mitgliederversammlung, sofern die Handlungsfähigkeit des Vereins weiterhin gewährleistet ist. Andernfalls hat die Neuwahl innerhalb von 6 Wochen durch Beschluss der Mitgliederversammlung zu erfolgen.
 
-  Der Vorstand verwaltet das Vermögen des Vereins. Einnahmen und Ausgaben sind unter Aufbewahrung der Belege chronologisch aufzuzeichnen. Am Ende des Geschäftsj ahres ist eine Vermögensaufstellung vorzunehmen.
+  Der Vorstand verwaltet das Vermögen des Vereins. Einnahmen und Ausgaben sind unter Aufbewahrung der Belege chronologisch aufzuzeichnen. Am Ende des Geschäftsjahres ist eine Vermögensaufstellung vorzunehmen.
 
   Der Gesamtelternvertreter und der Schulleiter der Schule haben das Recht, als Beisitzer mit beratender Stimme an den Vorstandssitzungen teilzunehmen.
 
