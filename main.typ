@@ -71,7 +71,7 @@
   - Neufestsetzung des Mitgliedsbeitrages,
   - Beschlussfassung über die Auflösung des Vereins.
 
-  Die Mitgliederversammlung wird vom Vorstand per E-Mail angekündigt und wird unter Angabe der Tagesordnung und unter Einhaltung einer Einladungsfrist von 2 Wochen, einberufen.
+  Die Mitgliederversammlung wird vom Vorstand in Textform (z.B. E-Mail) angekündigt und wird unter Angabe der Tagesordnung und unter Einhaltung einer Einladungsfrist von 2 Wochen, einberufen.
 
   Die Mitgliederversammlung ist auch einzuberufen, wenn mindestens der zehnte Teil der Mitglieder die Einberufung in Textform, unter Angabe des Zweckes und der Gründe, verlangt. Die Beschlüsse der Mitgliederversammlung werden mit der einfachen Mehrheit der erschienenen Mitglieder gefasst.
 
