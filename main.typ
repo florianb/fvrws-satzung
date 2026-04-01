@@ -90,7 +90,7 @@
 
   Die Aufgaben des Kassenwartes und die des Schriftführers können auch von dem Vorsitzenden bzw. dem stellvertretenden Vorsitzenden wahrgenommen werden.
 
-  Die Entscheidungen des Vorstandes bedürfen der Zustimmung der Mehrheit der Vorstandsmitglieder.
+  Die Entscheidungen des Vorstandes bedürfen der Zustimmung der Mehrheit der Vorstandsmitglieder. Im Falle einer Stimmengleichheit ist die / der Vorsitzende berechtigt ihre / seine Stimme doppelt zählen zu lassen.
 
   Der Verein wird gerichtlich und außergerichtlich durch zwei Mitglieder des Vorstandes gemeinsam vertreten. 
 
