@@ -73,6 +73,8 @@
 
   Die Mitgliederversammlung wird vom Vorstand in Textform (z.B. E-Mail) angekündigt und wird unter Angabe der Tagesordnung und unter Einhaltung einer Einladungsfrist von 2 Wochen, einberufen.
 
+  Anträge auf Ergänzung der Tagesordnung sind bis spätestens 7 Tage vor der Versammlung in Textform bei dem Vorstand einzureichen.
+
   Die Mitgliederversammlung ist auch einzuberufen, wenn mindestens der zehnte Teil der Mitglieder die Einberufung in Textform, unter Angabe des Zweckes und der Gründe, verlangt. Die Beschlüsse der Mitgliederversammlung werden mit der einfachen Mehrheit der erschienenen Mitglieder gefasst.
 
   Beschlüsse zur Änderung der Satzung und zur Auflösung des Vereins bedürfen einer Mehrheit von drei Vierteln der erschienenen bzw. teilnehmenden Mitglieder.
